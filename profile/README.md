@@ -18,4 +18,4 @@
 
 <br />
 
-[zerotrail.ai](https://zerotrail.ai) &nbsp;·&nbsp; [Research &amp; disclosures](https://zerotrail.ai/research)
+<ins><a href="https://zerotrail.ai">zerotrail.ai</a></ins> &nbsp;·&nbsp; <ins><a href="https://zerotrail.ai/research">Research &amp; disclosures</a></ins>
