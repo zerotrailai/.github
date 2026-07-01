@@ -6,7 +6,7 @@
 
 <br />
 
-### Proof, not scanner noise.
+### Every finding is a hypothesis until it's validated.
 
 **zerotrail** validates, proves, and remediates vulnerabilities through an offensive security lens—tracing exploit paths, generating proof-of-concepts, and shipping production-ready fixes.
 
