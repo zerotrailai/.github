@@ -8,15 +8,13 @@
 
 ### Proof, not scanner noise.
 
-**zerotrail** is an autonomous security engineer. It validates which vulnerabilities are actually _exploitable_ through an offensive security lens, traces exploit paths from source to sink, generates proof-of-concepts, and delivers production-ready fixes — before attackers can exploit them.
-
-Security teams drown in findings, but only a fraction are real risk. zerotrail proves what matters and remediates it at machine speed.
+**zerotrail** validates, proves, and remediates vulnerabilities through an offensive security lens—tracing exploit paths, generating proof-of-concepts, and shipping production-ready fixes.
 
 <br />
 
-- **Validate** — exploitability through an offensive lens, with near-zero false positives
-- **Prove** — attack paths and reproducible proof-of-concepts
-- **Remediate** — production-ready fixes your team can review and merge
+- **Validate** — exploitability through an offensive lens
+- **Prove** — attack paths and reproducible PoCs
+- **Remediate** — production-ready fixes
 
 <br />
 
